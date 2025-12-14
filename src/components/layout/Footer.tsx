@@ -32,13 +32,13 @@ export const Footer = () => {
               We help businesses build strong websites and online presence so they can grow and prosper.
             </p>
             <div className="flex flex-col gap-3 text-sm text-muted-foreground">
-              <a href="mailto:hello@venturefly.in" className="flex items-center gap-2 hover:text-primary transition-colors">
+              <a href="venturfly1315@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors">
                 <Mail size={16} />
-                hello@venturefly.in
+                venturefly1315@gmail.com
               </a>
-              <a href="tel:+919999999999" className="flex items-center gap-2 hover:text-primary transition-colors">
+              <a href="tel:+919129664111" className="flex items-center gap-2 hover:text-primary transition-colors">
                 <Phone size={16} />
-                +91 99999 99999
+                +91 9129664111
               </a>
               <span className="flex items-center gap-2">
                 <MapPin size={16} />
