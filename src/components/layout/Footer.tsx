@@ -97,7 +97,7 @@ export const Footer = () => {
               </li>
               <li>
                 <Link to="/pricing" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Premium - ₹50,000+
+                  Premium - ₹53,000+
                 </Link>
               </li>
             </ul>
